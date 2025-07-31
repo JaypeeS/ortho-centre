@@ -43,7 +43,7 @@
     min-height: 100vh;
 }
 .hero_overlay{
-    height: 100%;
+    min-height: 100%;
     background: linear-gradient(to bottom, #f5f7ffd2, #fffbee42, #e6efff8f);
     background-repeat: no-repeat;
     padding-top: 12%;
