@@ -47,6 +47,7 @@
     background: linear-gradient(to bottom, #f5f7ffd2, #fffbee42, #e6efff8f);
     background-repeat: no-repeat;
     padding-top: 12%;
+    padding-bottom: 5%;
 }
 .hero_wrapper .image-grid img {
     border-radius: 0.75rem;
