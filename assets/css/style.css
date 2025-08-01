@@ -20,7 +20,8 @@
   color: #000000 !important;
 }
 
-.navbar-custom a:hover {
+.navbar-custom a:hover,
+.navbar-custom a.active {
   color: rgb(0, 0, 0) !important;
   font-weight: 600;
 }
