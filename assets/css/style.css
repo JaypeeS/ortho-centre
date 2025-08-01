@@ -86,8 +86,7 @@
 .procedure-card {
   transition: box-shadow 0.3s ease;
 }
-.procedure-card:hover,
-.navbar-custom a.active{
+.procedure-card:hover{
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
   background-color: #0773b9 !important;
   color:#ffffff;
